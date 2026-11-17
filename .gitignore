@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated self-signed certificate for the local HTTPS lab
+certs/
+
+# curl cookie jars from the README example
+jar.txt
+
+# Editors / OS
+.DS_Store
+._*
+.vs/
+.idea/
+.vscode/
+*.swp
